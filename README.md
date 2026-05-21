@@ -1,61 +1,54 @@
-# Hi, I'm Nicolás <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" />
+# Hi... I'm Nicolás <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-### ML Engineer focused on industrial intelligent systems ⚙️
+ML Engineer focused on industrial intelligent systems.
 
-I build IoT prediction pipelines that understand the physical domain —  
+I build IoT prediction pipelines that understand the physical domain —
 because a pasteurizer and a filling machine should not be modeled the same way, and the code should know it.
 
----
+## ⚙️ Current Focus
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> About Me
+Cognitive industrial pipelines with equipment-aware Mixture of Experts (MoE),
+Bayesian per-sensor learning, adaptive anomaly detection,
+Kalman prediction engines and temporal reasoning for industrial IoT systems.
 
-- Industrial IoT + Machine Learning Engineer
-- Building cognitive prediction systems for industrial environments
-- Focused on anomaly detection, temporal intelligence and adaptive ML pipelines
-- Open to collaborations and innovative ML/IoT projects
+## 🧠 Stack & Technologies
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Stack & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,nestjs,flutter,docker,redis,mysql,postgres,git,linux,vscode&perline=6" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,fastapi,flutter,docker,redis,debian,git,github,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mixture%20of%20Experts-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bayesian%20Inference-1e293b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kalman%20Filters-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Industrial%20IoT-475569?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hexagonal%20Architecture-64748b?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMQX-5A2D81?style=for-the-badge&logo=emq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kalman%20Filtering-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bayesian%20Inference-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hexagonal%20Architecture-0F172A?style=for-the-badge"/>
 </p>
 
----
+## 🚀 Main Project
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Current Focus
+### ZENIN — Cognitive Temporal Engine for Industrial IoT
 
-Cognitive industrial ML pipelines with:
 - Equipment-aware Mixture of Experts
-- Bayesian per-sensor learning
 - Adaptive anomaly detection
-- Regime-aware orchestration
-- Kalman prediction engines
-- Explainable temporal intelligence
+- Temporal reasoning pipelines
+- Bayesian online learning
+- Kalman-based prediction engines
+- Industrial event detection
+- Explainable multi-phase inference pipeline
 
----
+## 📊 GitHub Stats
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fire.png" width="28" /> Main Project
 
-### ZENIN — Cognitive Temporal Engine
-Industrial ML architecture for:
-- Predictive maintenance
-- Real-time anomaly detection
-- Temporal reasoning
-- Industrial event intelligence
-- Adaptive streaming inference
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark&hide_border=false"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 </p>
